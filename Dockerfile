@@ -2,7 +2,7 @@
 ## Modified from https://github.com/harningt/docker-base-alpine-s6-overlay
 ##
 
-FROM alpine:3.7
+FROM alpine:edge
 MAINTAINER Jeremy Hinegardner <jeremy@copiousfreetime.org>
 
 ##
